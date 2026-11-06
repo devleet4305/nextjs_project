@@ -1,11 +1,12 @@
 
 
-import Front from "./title/front";
+import Navbar from "./Components/navbar";
+
 
 export default function Home() {
   return (
     <div>
-      <Front />
+      <Navbar />
     </div>
   );
 }
